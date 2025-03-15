@@ -1,0 +1,1 @@
+Es un vehículo de dos ruedas impulsado por un motor. El cuadro y las ruedas constituyen la estructura fundamental del vehículo. La rueda directriz es la delantera y la rueda motriz es la trasera.
