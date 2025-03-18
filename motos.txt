@@ -1,1 +1,3 @@
 Es un vehículo de dos ruedas impulsado por un motor. El cuadro y las ruedas constituyen la estructura fundamental del vehículo. La rueda directriz es la delantera y la rueda motriz es la trasera.
+
+el transporte preferido por motociclistas o amantes a las motos, es tambien agregado como un deporte nacional e internacional  para todos aquellos apasionados a este deporte 
